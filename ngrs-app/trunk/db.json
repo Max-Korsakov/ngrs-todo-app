@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+    "name": "from db",
+    "description": "aaa",
+    "complete": false,
+    "created": "2019-08-12"
+  },
+    {
+      "name": "from db 2",
+      "description": "rrrrr",
+      "complete": true,
+      "created": "2019-08-12"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": { "name": "typicode" }
+}
